@@ -4,6 +4,14 @@ Libro de visitas con Google App Engine (no usa ningún tipo de autenticación de
 
 Podéis ver la versión web en [https://guestbook-dot-pruebas-gae.appspot.com/](https://guestbook-dot-pruebas-gae.appspot.com/).
 
+<img src="https://github.com/guiferviz/guest-book/blob/gh-pages/web-img.jpg?raw=true" width="400">
+
+También puedes [descargar el apk](https://github.com/guiferviz/guest-book/releases/download/v1.0/GuestBookAndroid.apk) listo para instalar en tu dispositivo.
+
+<img src="https://github.com/guiferviz/guest-book/blob/gh-pages/app-img.jpg?raw=true" width="300">
+
+Si vas a crear tu propia app a partir de este código recuerda cambiar los tokens!
+
 ### ¿Para qué es este repositorio? ###
 
 * Practicar la creación de **APIs** con Google App Engine.
