@@ -1,8 +1,9 @@
 # **Guest Book README** #
 
-Libro de visitas con Google App Engine.
+Libro de visitas con Google App Engine (no usa ningún tipo de autenticación de usuarios).
 
-Este proyecto no usa ningún tipo de autenticación de usuarios.
+Podéis ver la versión web en [https://guestbook-dot-pruebas-gae.appspot.com/](https://guestbook-dot-pruebas-gae.appspot.com/).
+
 ### ¿Para qué es este repositorio? ###
 
 * Practicar la creación de **APIs** con Google App Engine.
